@@ -1,4 +1,7 @@
 {
+  "User": {
+    "title": { "string": {} }
+  },
   "group-trips": [
     {
       "trip_name": "Bob",
