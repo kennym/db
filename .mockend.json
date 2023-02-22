@@ -2,7 +2,7 @@
   "User": {
     "title": { "string": {} }
   },
-  "group-trips": [
+  "GroupTrip": [
     {
       "trip_name": "Bob",
       "location": {
