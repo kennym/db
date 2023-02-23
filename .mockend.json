@@ -1,37 +1,38 @@
 {
-"User": {
-"title": {
-"string": {}
-}
-},
-"GroupTrip": [
-{
-"trip_name": "Bob",
-"location": {
-"label": "JVL (United States, Janesville)",
-"value": "Southern Wisconsin Regional "
-},
-"start_date": "2023-02-02",
-"end_date": "2023-02-24",
-"payment_method": "participant",
-"domestic_budget": [
-300,
-700
-],
-"international_budget": [
-300,
-700
-],
-"hotel_budget": [
-300,
-700
-],
-"travel_windows": {
-"departure_date": null,
-"return_date": null
-},
-"participants": [],
-"id": 3
-}
-]
+   "GroupTrip":{
+      "_":{
+         "data":[
+            {
+               "trip_name":"Bob",
+               "location":{
+                  "label":"JVL (United States, Janesville)",
+                  "value":"Southern Wisconsin Regional "
+               },
+               "start_date":"2023-02-02",
+               "end_date":"2023-02-24",
+               "payment_method":"participant",
+               "domestic_budget":[
+                  300,
+                  700
+               ],
+               "international_budget":[
+                  300,
+                  700
+               ],
+               "hotel_budget":[
+                  300,
+                  700
+               ],
+               "travel_windows":{
+                  "departure_date":null,
+                  "return_date":null
+               },
+               "participants":[
+                  
+               ],
+               "id":3
+            }
+         ]
+      }
+   }
 }
